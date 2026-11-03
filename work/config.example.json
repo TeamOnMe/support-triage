@@ -1,0 +1,15 @@
+{
+  "api_url": "",
+  "api_key": "",
+  "api_model": "",
+  "api_timeout": 0,
+  "keyfile": "",
+  "keyfile_var": "",
+  "workdir": "",
+  "inbox_dir": "",
+  "output_dir": "",
+  "state_file": "",
+  "orders_file": "",
+  "web_host": "",
+  "web_port": 0
+}
