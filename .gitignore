@@ -12,4 +12,5 @@ work/config.json
 work/state.json
 work/orders.json
 work/inbox/
+inbox/
 *.zip
